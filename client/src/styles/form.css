@@ -1,0 +1,19 @@
+.form-control {
+  @apply w-full p-3 bg-gray-900 rounded-sm outline-none focus:ring-[3px] focus:ring-gray-700 duration-300 placeholder:text-gray-500 placeholder:capitalize;
+}
+
+.label {
+  @apply block mb-2 text-base text-gray-400 capitalize;
+}
+
+.input-file {
+  @apply block file:py-2.5 file:px-4 file:mr-4 file:border-none file:text-sm file:font-medium file:rounded file:hover:cursor-pointer file:bg-indigo-600 file:text-white;
+}
+
+.form-label {
+  @apply block mb-1.5 text-sm font-medium capitalize text-gray-700;
+}
+
+.form-input {
+  @apply w-full p-3 border border-gray-300 rounded-md outline-none;
+}

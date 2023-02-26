@@ -1,0 +1,24 @@
+.table-container {
+  @apply w-full overflow-x-auto rounded-lg;
+}
+.thead-tr {
+  @apply text-left bg-gray-50;
+}
+.th {
+  @apply p-4 text-xs font-bold text-left text-gray-600 uppercase;
+}
+.td {
+  @apply p-4 text-sm text-gray-700;
+}
+.dashboard-table {
+  @apply w-full bg-gray-900 rounded-md;
+}
+.dashboard-tr {
+  @apply text-left border-b border-gray-800;
+}
+.dashboard-th {
+  @apply p-3 text-sm font-medium text-gray-500 uppercase;
+}
+.dashboard-td {
+  @apply p-3 text-sm font-normal text-gray-400 capitalize;
+}
