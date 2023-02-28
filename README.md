@@ -1,6 +1,6 @@
-# MERN Stack E-Commerce Store
+# ESSENCE Store
 
-This is a full-stack e-commerce store built using the MERN (MongoDB, Express.js, React.js, Node.js) Stack. The application uses Redux Toolkit for state management and Stripe for payment processing.
+Full-stack e-commerce store built using the MERN (MongoDB, Express.js, React.js, Node.js) Stack. The application uses Redux Toolkit for state management and Stripe for payment processing.
 
 ## Features
 
