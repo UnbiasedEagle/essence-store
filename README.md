@@ -20,3 +20,4 @@ Full-stack e-commerce store built using the MERN (MongoDB, Express.js, React.js,
 - Node.js
 - Redux Toolkit
 - Stripe
+- Tailwind CSS
