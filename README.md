@@ -10,6 +10,7 @@ This is a full-stack e-commerce store built using the MERN (MongoDB, Express.js,
 - Cart functionality (add, remove, update quantity)
 - Stripe Checkout process
 - Order confirmation (order summary, order number)
+- Admin panel (manage products, orders, and categories)
 
 ## Tech Stack
 
